@@ -1,5 +1,7 @@
 # Backend for Todo list
 
+Dont forget to connect MongoDB to project
+
 ## Installation
 
 ```bash
